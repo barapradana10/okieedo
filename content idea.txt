@@ -3,6 +3,7 @@ Pillar:
 - mini boot camp
 - digital assets
 - freebies
-Freebies assets:
-- illustration
-- brand guideline template
+
+Freebies:
+- 3d assets
+- icon
