@@ -3,3 +3,7 @@ Pillar:
 - mini boot camp
 - digital assets
 - freebies
+
+Freebies:
+- 3d assets
+- icon
