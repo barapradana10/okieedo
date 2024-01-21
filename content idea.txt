@@ -1,3 +1,4 @@
 Pillar:
 - Creative
-- mini bootcamp
+- mini boot camp
+- digital assets
